@@ -1,0 +1,17 @@
+description,GenKI,UnitedNet,Mongoose
+Gene expression kidney atlas,0,0,0
+Single cell kidney analysis and Gdnf,0,0,1
+Kidney Fibrosis,0,0,1
+Toxicity in kidney organoids,0,0,1
+Single cell kidney organoids and TGFbeta,1,0,1
+Development of kidney organoids,1,0,1
+Single cell lupus nephritis,1,0,0
+Abnormal kidney collecting duct morphology,0,0,1
+Abnormal kidney development,1,0,0
+Abnormal kidney morphology,0,1,1
+Kidney,0,1,0
+Kidney epithelium development,1,1,1
+Metanephros development,0,0,1
+Nephron epithelium morphogenesis,0,0,1
+Nephron tubule development,0,0,0
+Ureteric bud development,0,0,1
