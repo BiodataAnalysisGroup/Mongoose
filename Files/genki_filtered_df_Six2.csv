@@ -1,0 +1,6 @@
+,category,term,number_of_genes,number_of_genes_in_background,ncbiTaxonId,inputGenes,preferredNames,p_value,fdr,description
+20,Process,GO:0072073,3,153,10090,"Gpc3,Vcan,Six2","Gpc3,Vcan,Six2",4.13e-05,0.0312,Kidney epithelium development
+60,PMID,PMID:36093324,5,69,10090,"Col1a2,Col3a1,Lgals1,Vcan,Six2","Col1a2,Col3a1,Lgals1,Vcan,Six2",9.66e-11,1.81e-05,(2023) Growth and differentiation of human induced pluripotent stem cell (hiPSC)-derived kidney organoids using fully synthetic peptide hydrogels.
+62,PMID,PMID:36435939,5,76,10090,"Fbn2,Col1a2,Col4a1,Col3a1,Six2","Fbn2,Col1a2,Col4a1,Col3a1,Six2",1.53e-10,2.36e-05,(2022) Single-cell multiomics reveals the complexity of TGFbeta signalling to chromatin in iPSC-derived kidney organoids.
+115,PMID,PMID:38014158,4,57,10090,"Col1a2,Col4a1,Col3a1,Lgals1","Col1a2,Col4a1,Col3a1,Lgals1",1.14e-08,0.0003,(2023) Single cell spatial transcriptomic profiling of childhood-onset lupus nephritis reveals complex interactions between kidney stroma and infiltrating immune cells.
+178,MPO,MP:0000527,3,108,10090,"Col4a1,Gpc3,Six2","Col4a1,Gpc3,Six2",1.49e-05,0.043,Abnormal kidney development

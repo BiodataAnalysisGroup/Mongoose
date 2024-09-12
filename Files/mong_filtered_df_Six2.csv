@@ -1,0 +1,12 @@
+,category,term,number_of_genes,number_of_genes_in_background,ncbiTaxonId,inputGenes,preferredNames,p_value,fdr,description
+11,Process,GO:0072073,6,153,10090,"Crlf1,Epcam,Gpc3,Irx2,Vcan,Six2","Crlf1,Epcam,Gpc3,Irx2,Vcan,Six2",2.12E-08,8.42E-05,Kidney epithelium development
+29,Process,GO:0001657,4,100,10090,"Crlf1,Epcam,Gpc3,Vcan","Crlf1,Epcam,Gpc3,Vcan",5.66E-06,0.0031,Ureteric bud development
+43,Process,GO:0072088,3,77,10090,"Gpc3,Irx2,Six2","Gpc3,Irx2,Six2",0.0001,0.0338,Nephron epithelium morphogenesis
+47,Process,GO:0001656,3,91,10090,"Gpc3,Irx2,Six2","Gpc3,Irx2,Six2",0.00017,0.0485,Metanephros development
+119,PMID,PMID:34440782,4,21,10090,"Col1a2,Col4a1,Col3a1,Col11a1","Col1a2,Col4a1,Col3a1,Col11a1",1.65E-08,0.00062,(2021) Different Patterns of Kidney Fibrosis Are Indicative of Injury to Distinct Renal Compartments.
+121,PMID,PMID:36093324,5,69,10090,"Col1a2,Col3a1,Lgals1,Vcan,Six2","Col1a2,Col3a1,Lgals1,Vcan,Six2",1.95E-08,0.00069,(2023) Growth and differentiation of human induced pluripotent stem cell (hiPSC)-derived kidney organoids using fully synthetic peptide hydrogels.
+138,PMID,PMID:36435939,5,76,10090,"Fbn2,Col1a2,Col4a1,Col3a1,Six2","Fbn2,Col1a2,Col4a1,Col3a1,Six2",3.09E-08,0.00084,(2022) Single-cell multiomics reveals the complexity of TGFbeta signalling to chromatin in iPSC-derived kidney organoids.
+141,PMID,PMID:36209212,5,78,10090,"Col1a2,Epcam,Cxcl12,Col3a1,Six2","Col1a2,Epcam,Cxcl12,Col3a1,Six2",3.49E-08,0.00087,(2022) Enhanced metanephric specification to functional proximal tubule enables toxicity screening and infectious disease modelling in kidney organoids.
+146,PMID,PMID:29183737,4,27,10090,"Fbn2,Gpc3,Six2,Alx1","Fbn2,Gpc3,Six2,Alx1",4.09E-08,0.00096,(2018) Cross-platform single cell analysis of kidney development shows stromal cells express Gdnf.
+198,MPO,MP:0002135,8,920,10090,"Fbn2,CD55,Col4a1,Gpc3,Folr1,Klrb1,Six2,CD63","Fbn2,Cd55,Col4a1,Gpc3,Folr1,Klrb1,Six2,Cd63",5.80E-06,0.0065,Abnormal kidney morphology
+204,MPO,MP:0004754,3,70,10090,"Col4a1,Gpc3,CD63","Col4a1,Gpc3,Cd63",7.79E-05,0.0394,Abnormal kidney collecting duct morphology
