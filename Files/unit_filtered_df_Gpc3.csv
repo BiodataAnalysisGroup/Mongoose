@@ -1,0 +1,2 @@
+,category,term,number_of_genes,number_of_genes_in_background,ncbiTaxonId,inputGenes,preferredNames,p_value,fdr,description
+9,TISSUES,BTO:0000671,8,1411,10090,"EPCR,NPR1,Hsbp1,Tgfbi,Fzd4,Dab2,KDR,CD63","Procr,Npr1,Hsbp1,Tgfbi,Fzd4,Dab2,Kdr,Cd63",2.93e-05,0.0207,Kidney
