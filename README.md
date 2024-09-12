@@ -40,3 +40,12 @@ in columns the model that found each of the pathways. Value 1 shows that a model
 <br><br>
 As a final step, run the script **Correlation_heatmaps.ipynb** to plot the final heatmap with all the associations from 
 niche modalities of all responsive genes produced in the whole Mongoose project after digit KOs of Six2, Gpc3 and Dicer1.
+
+<br><br>
+All the prerequisite files are stored in folder **Files**.
+
+## Contribute
+
+We welcome and greatly appreciate any sort of feedback and/or contribution!
+
+If you have any questions, please either open an issue or write us at `ggeorav@certh.gr` or `inab.bioinformatics@lists.certh.gr`.
