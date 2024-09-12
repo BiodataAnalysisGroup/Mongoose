@@ -21,7 +21,7 @@ KO gene. At last there is STRINGdb analysis for pathway enrichment based on the 
 genes found from the 3 methods (GenKI, UnitedNet, Mongoose). Repeat the process for *Gpc3_Mongoose_project.ipynb*
 and *Dicer1_Mongoose_project.ipynb*
 
-    From Step1 you will get 3 output files called **genki_filtered_df.csv*, **unit_filtered_df.csv* and **mong_filtered_df.csv*
+    From Step1 you will get 3 output files called *genki_filtered_df.csv*, *unit_filtered_df.csv* and *mong_filtered_df.csv*
 for **each gene**. 
 
 * **Step2:**
