@@ -7,7 +7,7 @@
 
 
 <br><br>
-![ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/Mongoose/main/Images/ECCB2024.png)
+![ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/Mongoose/main/Images/ECCB_2024.png)
 
 
 
