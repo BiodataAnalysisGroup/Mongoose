@@ -1,3 +1,0 @@
-,category,term,number_of_genes,number_of_genes_in_background,ncbiTaxonId,inputGenes,preferredNames,p_value,fdr,description
-113,Process,GO:0072080,3,90,10090,"Sox9,Notch1,Gpc3","Sox9,Notch1,Gpc3",0.00031,0.0352,Nephron tubule development
-270,MPO,MP:0002135,8,920,10090,"CD55,Notch1,Fzd4,Siglech,Gpc3,Dab2,Meis1,CD63","Cd55,Notch1,Fzd4,Siglech,Gpc3,Dab2,Meis1,Cd63",3.37e-05,0.0459,Abnormal kidney morphology

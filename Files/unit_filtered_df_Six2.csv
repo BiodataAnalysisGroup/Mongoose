@@ -1,4 +1,0 @@
-,category,term,number_of_genes,number_of_genes_in_background,ncbiTaxonId,inputGenes,preferredNames,p_value,fdr,description
-39,Process,GO:0072073,5,153,10090,"Crlf1,Notch1,Epcam,Irx2,Six2","Crlf1,Notch1,Epcam,Irx2,Six2",5.21e-05,0.0212,Kidney epithelium development
-78,TISSUES,BTO:0000671,12,1411,10090,"Gldc,EPCR,NPR1,Col4a2,Hsbp1,Tgfbi,Epcam,Plpp3,Zyx,Zeb2,Adgrl2,CD63","Gldc,Procr,Npr1,Col4a2,Hsbp1,Tgfbi,Epcam,Plpp3,Zyx,Zeb2,Adgrl2,Cd63",0.00021,0.0295,Kidney
-213,MPO,MP:0002135,10,920,10090,"KIT,Adamts1,CD55,Notch1,Siglech,KLRB1,Six2,Pkdcc,Cd2bp2,CD63","Kit,Adamts1,Cd55,Notch1,Siglech,Klrb1,Six2,Pkdcc,Cd2bp2,Cd63",0.00011,0.0287,Abnormal kidney morphology

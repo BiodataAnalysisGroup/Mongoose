@@ -1,5 +1,0 @@
-,category,term,number_of_genes,number_of_genes_in_background,ncbiTaxonId,inputGenes,preferredNames,p_value,fdr,description
-36,Process,GO:0072073,4,153,10090,"Ednrb,Wnt4,Gpc3,Vcan","Ednrb,Wnt4,Gpc3,Vcan",5.28E-05,0.0178,Kidney epithelium development
-117,PMID,PMID:19000842,4,61,10090,"Wnt4,Hoxa5,Hoxb7,Hoxc4","Wnt4,Hoxa5,Hoxb7,Hoxc4",1.60E-06,0.0465,(2008) Atlas of gene expression in the developing kidney at microanatomic resolution.
-139,MPO,MP:0002135,8,920,10090,"Fbn2,CD55,Wnt4,Hoxb7,Dicer1,Gpc3,KLRB1,CD63","Fbn2,Cd55,Wnt4,Hoxb7,Dicer1,Gpc3,Klrb1,Cd63",1.98E-05,0.0071,Abnormal kidney morphology
-148,MPO,MP:0004754,3,70,10090,"Dicer1,Gpc3,CD63","Dicer1,Gpc3,Cd63",0.00012,0.0303,Abnormal kidney collecting duct morphology
