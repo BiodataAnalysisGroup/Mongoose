@@ -9,8 +9,9 @@
 <br><br>
 ![ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/Mongoose/main/Images/ECCB_2024.png)
 
+## Workflow
 
-
+First you can download the [DBiT-dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137986)
 ## Contribute
 
 We welcome and greatly appreciate any sort of feedback and/or contribution!
