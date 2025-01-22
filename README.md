@@ -11,7 +11,7 @@
 
 ## Workflow
 
-First you can download the [DBiT-dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137986)
+First you can download the [DBiT-dataset](https://zenodo.org/records/7708592)
 ## Contribute
 
 We welcome and greatly appreciate any sort of feedback and/or contribution!
