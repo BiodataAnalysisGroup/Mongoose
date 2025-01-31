@@ -4,6 +4,10 @@
 
 The notebooks are configured to store the datasets under `./data`, and the saved results of the study under `./saved_results`.
 
+# Requirments
+
+Python = 3.9
+
 # Usage
 
 To install the dependencies for `UnitedNet_refined.ipynb`:
