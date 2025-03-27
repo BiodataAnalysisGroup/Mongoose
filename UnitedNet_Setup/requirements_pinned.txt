@@ -26,7 +26,7 @@ frozenlist==1.4.1
 fsspec==2024.9.0
 gast==0.6.0
 gdown==5.2.0
-GenKI @ git+https://github.com/thodkatz/GenKI.git@c75f6747b21f0a5ab379e9a8f95c63e3e936af18
+#GenKI @ git+https://github.com/thodkatz/GenKI.git@c75f6747b21f0a5ab379e9a8f95c63e3e936af18
 google-pasta==0.2.0
 grpcio==1.66.1
 h5py==3.11.0
@@ -56,7 +56,7 @@ mdurl==0.1.2
 ml-dtypes==0.4.0
 mne==1.7.1
 mne-connectivity==0.7.0
--e git+ssh://git@github.com/thodkatz/mongoose.git@b019c3f610dcb96caa6f74b0e1e82eb72c64befe#egg=mongoose
+#-e git+ssh://git@github.com/thodkatz/mongoose.git@b019c3f610dcb96caa6f74b0e1e82eb72c64befe#egg=mongoose
 mpmath==1.3.0
 msgpack==1.1.0
 multidict==6.1.0
@@ -137,7 +137,7 @@ traitlets==5.14.3
 triton==3.0.0
 typing_extensions==4.12.2
 umap-learn==0.5.6
-UnitedNet @ git+https://github.com/thodkatz/UnitedNet.git@4eeb7897b31a330fff31deedf9c07efd2de19f79
+#UnitedNet @ git+https://github.com/thodkatz/UnitedNet.git@4eeb7897b31a330fff31deedf9c07efd2de19f79
 urllib3==2.2.3
 wcwidth==0.2.13
 Werkzeug==3.0.4
