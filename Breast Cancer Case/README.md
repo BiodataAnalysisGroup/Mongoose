@@ -1,6 +1,6 @@
 # Breast Cancer Case description
 
-![Breast Cancer Case](https://github.com/BiodataAnalysisGroup/Mongoose/tree/Mongoose_process/Breast%20Cancer%20Case/Images/Breast_cancer_Mongoose.png" )
+![Breast Cancer Case](https://github.com/BiodataAnalysisGroup/Mongoose/blob/Mongoose_process/Breast%20Cancer%20Case/Images/Breast_cancer_Mongoose.png?raw=true)
 
 <div align='justify'> Little explanation of this case </div>
 
