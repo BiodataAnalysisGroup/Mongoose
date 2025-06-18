@@ -1,6 +1,6 @@
-# Breast Cancer Case description
+# DBiT-seq Case description
 
-![DBiT-seq Case](https://github.com/BiodataAnalysisGroup/Mongoose/tree/Mongoose_process/DBiT-seq%20Case/Images/DBiT_seq_case_Mongoose.png?raw=true)
+![DBiT-seq Case](https://github.com/BiodataAnalysisGroup/Mongoose/blob/Mongoose_process/DBiT-seq%20Case/Images/DBiT_seq_case_Mongoose.png?raw=true)
 
 <div align='justify'> Little explanation of this case </div>
 
