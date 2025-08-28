@@ -1,0 +1,7 @@
+README.md
+setup.py
+mongoose.egg-info/PKG-INFO
+mongoose.egg-info/SOURCES.txt
+mongoose.egg-info/dependency_links.txt
+mongoose.egg-info/requires.txt
+mongoose.egg-info/top_level.txt

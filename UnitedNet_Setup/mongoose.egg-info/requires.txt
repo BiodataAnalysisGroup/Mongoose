@@ -1,0 +1,16 @@
+GenKI@ git+https://github.com/thodkatz/GenKI.git
+UnitedNet@ git+https://github.com/thodkatz/UnitedNet.git
+numpy
+pandas
+networkx
+stringdb
+gdown
+tensorflow
+keras<3.5
+opencv-python
+scanpy
+scipy
+anndata
+scikit-learn
+torch
+imutils

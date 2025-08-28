@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: mongoose
+Version: 0.0.0
+Home-page: 
+Author: 
+License: MIT Licence
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.9
+Requires-Dist: GenKI@ git+https://github.com/thodkatz/GenKI.git
+Requires-Dist: UnitedNet@ git+https://github.com/thodkatz/UnitedNet.git
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: networkx
+Requires-Dist: stringdb
+Requires-Dist: gdown
+Requires-Dist: tensorflow
+Requires-Dist: keras<3.5
+Requires-Dist: opencv-python
+Requires-Dist: scanpy
+Requires-Dist: scipy
+Requires-Dist: anndata
+Requires-Dist: scikit-learn
+Requires-Dist: torch
+Requires-Dist: imutils
+Dynamic: classifier
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
