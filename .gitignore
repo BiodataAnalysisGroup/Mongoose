@@ -1,0 +1,16 @@
+# Ignore everything at repo root by default
+/*
+
+# Allow these root files
+!/.gitignore
+!/README.md
+!/LICENSE
+
+# Keep directory structure anywhere via .gitkeep
+!**/.gitkeep
+
+# Allow full content of these two folders
+!/Scripts/
+!/Scripts/**
+!/old_scripts_dir/
+!/old_scripts_dir/**
