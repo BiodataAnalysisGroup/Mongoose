@@ -1,16 +1,26 @@
-# Ignore everything at repo root by default
-/*
+# Ignore everything by default
+*
 
-# Allow these root files
-!/.gitignore
-!/README.md
-!/LICENSE
+# …but not directories (so folders appear on GitHub)
+!*/
 
-# Keep directory structure anywhere via .gitkeep
+# Allow .gitkeep anywhere (so we can keep empty dirs)
 !**/.gitkeep
 
+# Allow these root files
+!.gitignore
+!README.md
+!LICENSE
+
 # Allow full content of these two folders
-!/Scripts/
-!/Scripts/**
-!/old_scripts_dir/
-!/old_scripts_dir/**
+!Scripts/**
+!old_scripts_dir/**
+
+# (Optional) still ignore heavy/temporary stuff if it appears elsewhere
+*.log
+*.tar.gz
+*.DS_Store
+**/.ipynb_checkpoints/
+**/events.out.tfevents.*
+*.h5ad
+*.zip
