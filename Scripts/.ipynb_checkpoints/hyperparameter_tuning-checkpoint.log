@@ -1,0 +1,24 @@
+2025-09-12 16:34:27,183 - INFO - Starting hyperparameter tuning for learning_rate
+2025-09-12 16:34:27,183 - INFO - Dataset: KP2_1
+2025-09-12 16:34:27,183 - INFO - Values: [0.0001, 0.0005, 0.001, 0.005, 0.01]
+2025-09-12 16:34:27,183 - INFO - Initialized HyperparameterTuner for dataset KP2_1
+2025-09-12 16:34:27,183 - INFO - Experiment directory: ../Hyperparameter_Tuning/experiment_20250912_163427
+2025-09-12 16:34:27,183 - INFO - Starting hyperparameter sweep: learning_rate with 5 values
+2025-09-12 16:34:27,183 - INFO - Values to test: [0.0001, 0.0005, 0.001, 0.005, 0.01]
+2025-09-12 16:34:27,183 - INFO - Running experiment 1/5: learning_rate_0_0001
+2025-09-12 16:34:27,183 - INFO - Starting experiment learning_rate_0_0001: learning_rate=0.0001
+2025-09-12 16:34:27,183 - INFO - Step 1: Training model for learning_rate_0_0001
+2025-09-12 16:34:27,183 - INFO - Running training command: /home/ggavriilidis/.conda/envs/unitednet/bin/python uni_training.py --data_path ../Data/UnitedNet/input_data --dataset_id KP2_1 --output_base ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0001/model --timestamp --lr 0.0001
+2025-09-12 16:34:41,773 - INFO - Step 2: Calculating SHAP for learning_rate_0_0001
+2025-09-12 16:34:41,773 - INFO - Running SHAP command: /home/ggavriilidis/.conda/envs/unitednet/bin/python calculate_shap_values.py --model_path ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0001/model/perturbmap_20250912_163429/model_perturbmap_KP2_1_20250912_163429.pkl --dataset_id KP2_1 --data_path ../Data/UnitedNet/input_data --output_dir ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0001/shap_analysis
+2025-09-12 16:34:52,875 - INFO - Step 3: Feature analysis for learning_rate_0_0001
+2025-09-12 16:34:52,876 - INFO - Running feature analysis command: /home/ggavriilidis/.conda/envs/unitednet/bin/python feature_feature_analysis.py --dataset_id KP2_1 --shap_dir ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0001/shap_analysis/shap_analysis_20250912_163444 --data_path ../Data/UnitedNet/input_data --output_dir ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0001/cross_modal_analysis
+2025-09-12 16:40:43,841 - INFO - Completed experiment learning_rate_0_0001 in 6.3 minutes
+2025-09-12 16:40:43,841 - INFO - Running experiment 2/5: learning_rate_0_0005
+2025-09-12 16:40:43,841 - INFO - Starting experiment learning_rate_0_0005: learning_rate=0.0005
+2025-09-12 16:40:43,849 - INFO - Step 1: Training model for learning_rate_0_0005
+2025-09-12 16:40:43,849 - INFO - Running training command: /home/ggavriilidis/.conda/envs/unitednet/bin/python uni_training.py --data_path ../Data/UnitedNet/input_data --dataset_id KP2_1 --output_base ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0005/model --timestamp --lr 0.0005
+2025-09-12 16:40:58,928 - INFO - Step 2: Calculating SHAP for learning_rate_0_0005
+2025-09-12 16:40:58,928 - INFO - Running SHAP command: /home/ggavriilidis/.conda/envs/unitednet/bin/python calculate_shap_values.py --model_path ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0005/model/perturbmap_20250912_164046/model_perturbmap_KP2_1_20250912_164046.pkl --dataset_id KP2_1 --data_path ../Data/UnitedNet/input_data --output_dir ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0005/shap_analysis
+2025-09-12 16:41:10,128 - INFO - Step 3: Feature analysis for learning_rate_0_0005
+2025-09-12 16:41:10,128 - INFO - Running feature analysis command: /home/ggavriilidis/.conda/envs/unitednet/bin/python feature_feature_analysis.py --dataset_id KP2_1 --shap_dir ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0005/shap_analysis/shap_analysis_20250912_164101 --data_path ../Data/UnitedNet/input_data --output_dir ../Hyperparameter_Tuning/experiment_20250912_163427/exp_learning_rate_0_0005/cross_modal_analysis
