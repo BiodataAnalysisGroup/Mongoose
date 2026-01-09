@@ -1,6 +1,6 @@
 absl-py==2.1.0
 aiohappyeyeballs==2.4.0
-aiohttp==3.10.5
+aiohttp==3.13.3
 aiohttp>=3.13.3
 anndata==0.8.0
 asttokens==2.4.1
