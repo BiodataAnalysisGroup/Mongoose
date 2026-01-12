@@ -132,7 +132,7 @@ threadpoolctl==3.5.0
 torch==2.8.0
 torch-geometric==2.6.0
 tornado==6.4.1
-tqdm==4.64.1
+tqdm==4.66.3
 traitlets==5.14.3
 triton==3.0.0
 typing_extensions==4.12.2
